@@ -10,6 +10,10 @@
 
 - [Fast & Simple Introduction to Cross-Platform GUI Design in Python with ttkbootstrap](https://www.xanthium.in/short-concise-tutorial-python-gui-design-using-tkinter-ttkbootstrap-beginners)
 
+- [Building a Functional Analog Meter Gauge GUI with Python, Tkinter, and ttkbootstrap](https://www.xanthium.in/creating-analog-meter-gauge-instrument-gui-in-python-using-tkinter-ttkbootstrap-tutorial)
+
+- [Designing Professional GUI Tables in Tkinter with the Tableview Class from ttkbootstrap](https://www.xanthium.in/create-gui-table-widget-tkinter-using-ttkbootstrap-tableview-class-tutorial)
+
 ## Repo Contents
 The [tutorial](https://www.xanthium.in/short-concise-tutorial-python-gui-design-using-tkinter-ttkbootstrap-beginners) walks you through all the essential elements needed to create intuitive and modern Python GUIs for embedded applications. By the end of this tutorial, you will know how to:
 
@@ -25,3 +29,12 @@ The [tutorial](https://www.xanthium.in/short-concise-tutorial-python-gui-design-
 - Add radio buttons and check buttons for selection options
 - Display images and integrate tables into your GUI using Tableview
  
+## Images
+
+- ![python tkinter check button tutorial](/docs/check_button.png)
+- ![displaying images on tkinter frame](/docs/image_display.png)
+- ![](/docs/ttkbootstrap-combo-box.jpg)
+- ![](/docs/ttkbootstrap-entry-box-2.jpg)
+- ![](/docs/ttkbootstrap-scrolledtext-change-font.jpg)
+
+
