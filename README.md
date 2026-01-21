@@ -6,6 +6,12 @@
 
 - This tutorial is perfect for Python developers who are already familiar with the language but are new to designing GUIs. You’ll learn how to quickly use ttkbootstrap to create sleek, interactive interfaces that work seamlessly on both PCs and embedded systems.
 
+## Youtube Course 
+
+- ![python tkinter ttkbootstrap tutorial](/docs/ttkbootstrap-course-youtube.png)
+
+- [Complete ttkbootstrap GUI Development Youtube Course using Python for Beginners](https://www.youtube.com/watch?v=F5T2FRvuSdU) 
+
 ## Online Website
 
 - [Fast & Simple Introduction to Cross-Platform GUI Design in Python with ttkbootstrap](https://www.xanthium.in/short-concise-tutorial-python-gui-design-using-tkinter-ttkbootstrap-beginners)
@@ -18,7 +24,8 @@
 The [tutorial](https://www.xanthium.in/short-concise-tutorial-python-gui-design-using-tkinter-ttkbootstrap-beginners) walks you through all the essential elements needed to create intuitive and modern Python GUIs for embedded applications. By the end of this tutorial, you will know how to:
 
 - Understand the ttkbootstrap framework and its benefits
-- Install ttkbootstrap using PIP for easy setup
+- Install ttkbootstrap on Linux using Venv Virtual Environment 
+- Install ttkbootstrap on Windows using Venv Virtual Environment 
 - Create a basic window in Tkinter and ttkbootstrap
 - Disable or enable the maximize button on a Tkinter window
 - Handle window events, like detecting and managing the close button event
