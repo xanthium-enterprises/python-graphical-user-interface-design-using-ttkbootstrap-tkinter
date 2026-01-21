@@ -24,7 +24,7 @@
 The [tutorial](https://www.xanthium.in/short-concise-tutorial-python-gui-design-using-tkinter-ttkbootstrap-beginners) walks you through all the essential elements needed to create intuitive and modern Python GUIs for embedded applications. By the end of this tutorial, you will know how to:
 
 - Understand the ttkbootstrap framework and its benefits
-- Install ttkbootstrap on Linux using Venv Virtual Environment 
+- [Install ttkbootstrap on Linux using Venv Virtual Environment](https://www.youtube.com/watch?v=KF0xh1blpW0) 
 - Install ttkbootstrap on Windows using Venv Virtual Environment 
 - Create a basic window in Tkinter and ttkbootstrap
 - Disable or enable the maximize button on a Tkinter window
